@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.1.0"
+  },
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "fs": "0.0.2",
+    "jQuery": "^1.7.4",
+    "jquery-latest": "^1.9.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
