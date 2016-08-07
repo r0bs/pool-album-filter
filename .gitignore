@@ -1,0 +1,6 @@
+cover_w3000/
+cover_w300/
+build/
+aufm.csv
+convertcsv.json
+node_modules/
